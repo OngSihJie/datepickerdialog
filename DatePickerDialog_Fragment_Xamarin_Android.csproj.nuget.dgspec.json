@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ongsi\\Source\\Repos\\DatePickerDialog_Fragment_Xamarin_Android\\DatePickerDialog_Fragment_Xamarin_Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ongsi\\Source\\Repos\\DatePickerDialog_Fragment_Xamarin_Android\\DatePickerDialog_Fragment_Xamarin_Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ongsi\\Source\\Repos\\DatePickerDialog_Fragment_Xamarin_Android\\DatePickerDialog_Fragment_Xamarin_Android.csproj",
+        "projectName": "DatePickerDialog_Fragment_Xamarin_Android",
+        "projectPath": "C:\\Users\\ongsi\\Source\\Repos\\DatePickerDialog_Fragment_Xamarin_Android\\DatePickerDialog_Fragment_Xamarin_Android.csproj",
+        "packagesPath": "C:\\Users\\ongsi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ongsi\\Source\\Repos\\DatePickerDialog_Fragment_Xamarin_Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ongsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
